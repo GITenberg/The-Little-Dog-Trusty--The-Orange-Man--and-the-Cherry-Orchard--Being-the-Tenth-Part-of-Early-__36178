@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/630
     wikipedia: http://en.wikipedia.org/wiki/Maria_Edgeworth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36178#The-Little-Dog-Trusty--The-Orange-Man--and-the-Cherry-Orchard--Being-the-Tenth-Part-of-Early-_
 gutenberg_issued: '2011-05-21'
 gutenberg_type: Text
 identifiers:
